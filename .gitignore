@@ -11,3 +11,6 @@ wheels/
 
 # Apple
 .DS_Store
+
+# Dataset
+data/
